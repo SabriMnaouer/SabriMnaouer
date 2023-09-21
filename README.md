@@ -1,6 +1,4 @@
 
-[![MasterHead](https://img.freepik.com/free-vector/black-banner-with-yellow-geometric-shapes_1017-32327.jpg)](https://www.linkedin.com/in/sabri-mnaouer/)
-
 <h1 align="center">Hi 👋, I'm Sabri MNAOUER</h1>
 <h3 align="center">A passionate FULLSTACK ENGINEER</h3>
 
