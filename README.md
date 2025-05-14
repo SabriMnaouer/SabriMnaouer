@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sabri MNAOUER</h1>
+<h1 align="center">Hi 👋, I'm <span style="color: #ff7b00; font-weight: bold;">Sabri MNAOUER</span></h1>
 <h3 align="center">A Passionate Fullstack Engineer | Freelance Developer</h3>
 
 <p align="center">
-  <a href="https://sabrimnaouer.vercel.app/" target="_blank">
-    🌐 Visit My Portfolio
+  <a href="https://sabrimnaouer.vercel.app/" target="_blank" style="font-size: 18px; font-weight: bold; text-decoration: none; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    🌐 <span style="background: linear-gradient(90deg, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">Visit My Portfolio</span>
   </a>
 </p>
+
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -70,6 +71,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/>
 </p>
+
+#### Deployment Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain-wordmark.svg" width="40" height="40"/>
+</p>
+
 
 ---
 ### 📊 GitHub Stats
